@@ -4,8 +4,8 @@
 ШАГ 1 OpenPort
 
 Установка OpenPort - https://openport.io/download
-- Активировали личной токен авторизации
-- Открыли порт 5005
+- Активировали личной токен авторизации - openport register-key <your-token>
+- Открыли порт - openport 5005
 
 ![image](https://user-images.githubusercontent.com/42940373/205100053-ec8c6282-9b59-47b7-98ad-058c2a1ac8fd.png)
 
